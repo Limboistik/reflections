@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a .git file to keep metadatas of the tracked files in the future. I need to do it because that's the only way to create a repository to track changes to files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is different from the working directory since it registers files to be saved. I think it offers great value to developers, by allowing them greater control over what they choose to share.
