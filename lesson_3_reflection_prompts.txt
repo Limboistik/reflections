@@ -4,3 +4,5 @@ What is the benefit of having a copy of the last known state of the remote store
 So you can work offline and see what was the last known change, and if there are differences with the remote.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Storing local copies with local version control, manually duplicating, but that would be harder.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Making a separate branch would allow you to test different changes without affecting the master branch, so you can do bolder experiments and test them before merging it into the main branch.
