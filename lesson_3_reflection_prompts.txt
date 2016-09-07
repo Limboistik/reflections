@@ -1,2 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
 To store and share all the files in the cloud so it's easily accessible with your team or other members.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So you can work offline and see what was the last known change, and if there are differences with the remote.
